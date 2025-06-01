@@ -1,4 +1,6 @@
-![Hovering Waterjet Mustang](https://github.com/user-attachments/assets/b5e1c7a5-7870-466d-8026-7e788fa62cbe)
+![Weed Canoe](https://github.com/user-attachments/assets/9b81e2d7-4f1f-4f1c-9f90-d4b9ee37c60c)
+
+Boats, ships, and other watercraft are essential vehicles designed for navigation on water, ranging from small personal vessels like kayaks and sailboats to massive cargo ships and naval warships. Each type serves a specific purpose—recreational, commercial, military, or transportation—and is built accordingly, with variations in size, propulsion systems, and structural design. While boats typically refer to smaller watercraft suitable for rivers, lakes, or coastal areas, ships are larger and equipped for long-distance travel across oceans. Other watercraft, such as submarines, jet skis, and ferries, further expand the scope of marine mobility, reflecting humanity’s long-standing relationship with aquatic environments for exploration, trade, defense, and leisure.
 
 #
 
@@ -27,6 +29,7 @@
 #
 
 ![Skilled Sailor](https://github.com/user-attachments/assets/151334dc-c033-40c9-b1cc-889d488a88bb)
+![Hovering Waterjet Mustang](https://github.com/user-attachments/assets/b5e1c7a5-7870-466d-8026-7e788fa62cbe)
 
 #
 

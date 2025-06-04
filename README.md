@@ -29,7 +29,7 @@ Boats, ships, and other watercraft are essential vehicles designed for navigatio
 #
 
 ![Hovering Waterjet Mustang](https://github.com/user-attachments/assets/b5e1c7a5-7870-466d-8026-7e788fa62cbe)
-![Futuristic Maglev Boat Garage](https://github.com/user-attachments/assets/78f6b9b6-1922-4a40-8b68-5f0b4412f0c8)
+![Futuristic Maglev Boat Garage](https://github.com/user-attachments/assets/a8448d43-644b-4b4b-9bfe-bc9e3933bd29)
 
 #
 
